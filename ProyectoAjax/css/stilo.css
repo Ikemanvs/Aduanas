@@ -1,0 +1,29 @@
+*{
+	margin:auto;
+}
+#titulo h2{
+	font-size: 80px;
+}
+#imagen{
+	width:95%;
+	height:200px;
+	border-radius:15px;
+}
+#imagen:hover {
+	filter: grayscale(60%);
+	}
+#principal{
+	width:90%;
+	text-align:center;
+}
+#form{
+	width:90%;
+}
+#menu{
+	text-decoration:none;
+	width:90%;
+	background:#E0D6E4;
+}
+#menu a{
+	border-right:solid 1px black;
+}
